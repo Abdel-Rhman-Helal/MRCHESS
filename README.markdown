@@ -48,7 +48,7 @@ A video demonstrating the installation process and gameplay will be added manual
 - Setting up the `Chess_project` folder and `MRChess.exe`.
 - Launching the game and playing a sample match, including move highlights and color changes.
 
-![Installation and Gameplay Guide](Videos/MRChess-installation-and-Gamplay.mp4)
+https://github.com/user-attachments/assets/b76902a8-8910-4e0e-9948-f2c6025be6b6
 
 ## System Requirements
 - **Operating System**: Windows PC
