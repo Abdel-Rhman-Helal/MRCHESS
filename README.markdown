@@ -61,5 +61,6 @@ Mr.Chess was developed by a team led by LAP207, who maintains the GitHub reposit
 - **Suggestions or Code Contributions**: Contact LAP207 to share changes locally (e.g., via email or shared drive). Alternatively, fork the repository, make changes, and submit a pull request for review.
 - **Issues**: Report bugs or suggest features by creating an issue in the GitHub repository.
 
+
 ## Developed By
 LAP207
